@@ -147,7 +147,9 @@ Atualmente, os dados são armazenados **em memória**. Portanto, as tarefas ser�
 ## 👨‍💻 Autor
 
 **Geovany de Oliveira Silva Batista**
+
 **Jose Gabriel**
+
 **Afonso Vanderlei**
 
 Desenvolvido como atividade acadêmica do curso de **Análise e Desenvolvimento de Sistemas (ADS) — IFPI**.
