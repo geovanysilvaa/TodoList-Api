@@ -63,7 +63,7 @@ uv sync
 ### 4. Executar a API
 
 ```bash
-uv run uvicorn main:app --reload
+uv run fastapi dev main.py
 ```
 
 A API estará disponível em:
