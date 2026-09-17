@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+minha_api.egg-info/PKG-INFO
+minha_api.egg-info/SOURCES.txt
+minha_api.egg-info/dependency_links.txt
+minha_api.egg-info/requires.txt
+minha_api.egg-info/top_level.txt
